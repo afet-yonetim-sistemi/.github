@@ -9,6 +9,8 @@ Afet Yönetim Sistemi, gönüllü olarak, [discussion](https://github.com/acikka
 
 Gönüllü olarak kişilerin afet bölgesine kişi ve/veya alet edevat taşımasındaki süreci bir kuruma bağlı gerçekleştirmesi ve bu süreçte kişilerin güvenliğinin sağlanması, kurumun koordinasyonunun sağlanması, doğru envanterin doğru konuma gönderilmesi.
 
+## Katkı Sağlamak İstiyorum
+
 Detaylı bilgi için [Discord](https://discord.gg/CVzKJXf2) kanalımıza dahil olabilir, ilgili repositoryleri inceleyebilir, gönüllü kişilerle iletişime geçebilir, bize destek olabilirsin.
 
 ## Teknik Gereksinim
