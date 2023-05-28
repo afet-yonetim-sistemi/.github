@@ -3,7 +3,7 @@
 
 Merhaba 👋
 
-Afet Yönetim Sistemi, gönüllü olarak, [discussion](https://github.com/acikkaynak/afet-org/discussions/35) alanındaki fikri hayata geçirmek için katkı sağlayan bir topluluktur.
+Afet Yönetim Sistemi, [discussion](https://github.com/acikkaynak/afet-org/discussions/35) alanındaki fikri gönüllü olarak hayata geçirmek için katkı sağlayan bir topluluktur.
 
 ## Özet
 
@@ -11,15 +11,16 @@ Gönüllü olarak kişilerin afet bölgesine kişi ve/veya alet edevat taşımas
 
 ## Katkı Sağlamak İstiyorum
 
-Detaylı bilgi için [Discord](https://discord.gg/CVzKJXf2) kanalımıza dahil olabilir, ilgili repositoryleri inceleyebilir, gönüllü kişilerle iletişime geçebilir, bize destek olabilirsin.
+Detaylı bilgi için [Discord](https://discord.gg/Ac2wWAxh5b) kanalımıza dahil olabilir, ilgili repositoryleri inceleyebilir, gönüllü kişilerle iletişime geçerek bize destek olabilirsin.
 
 ## Teknik Gereksinim
 
-- Back-End: `Java17`, `Spring Boot 3`, `Docker`, `MySQL`
-- Front-End: `React.js`, `Angular.js`
-- iOS: `Swift`
-- Android: `Kotlin, Flutter`
-- UI/UX Design: `Figma`
-- Product: `Github Project`
-- Discord Moderating: `Oryantasyon`, `Organizasyon Botları`
-- Test: `-`
+- **Back-End**: `Java17`, `Spring Boot 3`, `Docker`, `MySQL`
+- **Front-End:** `-`
+- **iOS:** `Swift`
+- **Android:** `Kotlin`, `Flutter`
+- **DevOps:** `Amazon Web Services`, `Terminal Skills`
+- **UI/UX Design:** `Figma`
+- **Product:** `Github Project`
+- **Discord Moderating:** `Orientation`, `Organization Bots`
+- **Test:** `API & UI Automation`
