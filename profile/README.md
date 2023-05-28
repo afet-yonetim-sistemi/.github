@@ -23,4 +23,4 @@ Detaylı bilgi için [Discord](https://discord.gg/Ac2wWAxh5b) kanalımıza dahil
 - **UI/UX Design:** `Figma`
 - **Product:** `Github Project`
 - **Discord Moderating:** `Orientation`, `Organization Bots`
-- **Test:** `API & UI Automation`
+- **Test:** `API & UI Automation`, `Manuel Testing for Web & Mobile`
