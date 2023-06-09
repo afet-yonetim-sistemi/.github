@@ -16,11 +16,11 @@ Detaylı bilgi için [Discord](https://discord.gg/Ac2wWAxh5b) kanalımıza dahil
 ## Teknik Gereksinim
 
 - **Back-End**: `Java17`, `Spring Boot 3`, `Docker`, `MySQL`
-- **Front-End:** `-`
+- **Front-End:** `React.js`
 - **iOS:** `Swift`
-- **Android:** `Kotlin`, `Flutter`
+- **Android:** `Kotlin`
 - **DevOps:** `Amazon Web Services`, `Terminal Skills`
 - **UI/UX Design:** `Figma`
 - **Product:** `Github Project`
 - **Discord Moderating:** `Orientation`, `Organization Bots`
-- **Test:** `API & UI Automation`, `Manuel Testing for Web & Mobile`
+- **Test:** `API & UI Test Automation`, `Manuel Testing for Web & Mobile`
