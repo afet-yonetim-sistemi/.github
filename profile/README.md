@@ -7,11 +7,11 @@ Afet Yönetim Sistemi, [discussion](https://github.com/acikkaynak/afet-org/discu
 
 ## Özet
 
-Gönüllü olarak kişilerin afet bölgesine kişi ve/veya alet edevat taşımasındaki süreci bir kuruma bağlı gerçekleştirmesi ve bu süreçte kişilerin güvenliğinin sağlanması, kurumun koordinasyonunun sağlanması, doğru envanterin doğru konuma gönderilmesi.
+Afet Yönetim Sistemi, Bir kuruma bağlı olan gönüllü kişilerin afet bölgesine kişi ve/veya alet edevat taşıma sürecinin gerçekleştirilmesi ve bu süreçte kişilerin güvenliğinin sağlanması, kurumun koordinasyonunun sağlanması, doğru envanterin doğru konuma gönderilmesini hedefliyoruz. Afet sonrası yardımların güvenli ve sağlıklı bir şekilde ulaşması için teknik çözümler üretiyoruz.
 
 ## Katkı Sağlamak İstiyorum
 
-Detaylı bilgi için [Discord](https://discord.gg/Ac2wWAxh5b) kanalımıza dahil olabilir, ilgili repositoryleri inceleyebilir, gönüllü kişilerle iletişime geçerek bize destek olabilirsin.
+Detaylı bilgi için [Discord](https://discord.gg/3ShTaTJr4f) kanalımıza dahil olabilir, ilgili repositoryleri inceleyebilir, gönüllü kişilerle iletişime geçerek bize destek olabilirsin.
 
 ## Teknik Gereksinim
 
