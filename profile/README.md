@@ -16,7 +16,7 @@ Detaylı bilgi için [Discord](https://discord.gg/3ShTaTJr4f) kanalımıza dahil
 ## Teknik Gereksinim
 
 - **Back-End**: `Java17`, `Spring Boot 3`, `Docker`, `MySQL`
-- **Front-End:** `React.js`
+- **Front-End:** `React.js`, `TypeScript`
 - **iOS:** `Swift`
 - **Android:** `Kotlin`
 - **DevOps:** `Amazon Web Services`, `Terminal Skills`
