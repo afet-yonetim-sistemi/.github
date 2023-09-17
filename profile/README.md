@@ -1,5 +1,5 @@
 
-# Afet Yönetim Sistemi
+# [**Afet Yönetim Sistemi**](https://github.com/afet-yonetim-sistemi/.github/files/12642303/ays_introduction.pdf)
 
 Merhaba 👋
 
@@ -17,10 +17,13 @@ Detaylı bilgi için [Discord](https://discord.gg/3ShTaTJr4f) kanalımıza dahil
 
 - **Back-End**: `Java17`, `Spring Boot 3`, `Docker`, `MySQL`
 - **Front-End:** `React.js`, `TypeScript`
-- **iOS:** `Swift`
-- **Android:** `Kotlin`
+- **Mobile**: `React Native`
+- **iOS*:** `Swift`
+- **Android*:** `Kotlin`
 - **DevOps:** `Amazon Web Services`, `Terminal Skills`
 - **UI/UX Design:** `Figma`
 - **Product:** `Github Project`
 - **Discord Moderating:** `Orientation`, `Organization Bots`
 - **Test:** `API & UI Test Automation`, `Manuel Testing for Web & Mobile`
+
+> '*'  ile işaretlenen alanlar için şu an aktif geliştirici olmadığından durdurma kararı aldık.
