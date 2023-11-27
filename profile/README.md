@@ -1,19 +1,21 @@
 
-# [**Afet Yönetim Sistemi**](https://github.com/afet-yonetim-sistemi/.github/files/12642303/ays_introduction.pdf)
+# ⛰️ **Afet Yönetim Sistemi**
+
 
 Merhaba 👋
-
 Afet Yönetim Sistemi, [discussion](https://github.com/acikkaynak/afet-org/discussions/35) alanındaki fikri gönüllü olarak hayata geçirmek için katkı sağlayan bir topluluktur.
 
-## Özet
+## ☀️ Özet
 
-Afet Yönetim Sistemi, Bir kuruma bağlı olan gönüllü kişilerin afet bölgesine kişi ve/veya alet edevat taşıma sürecinin gerçekleştirilmesi ve bu süreçte kişilerin güvenliğinin sağlanması, kurumun koordinasyonunun sağlanması, doğru envanterin doğru konuma gönderilmesini hedefliyoruz. Afet sonrası yardımların güvenli ve sağlıklı bir şekilde ulaşması için teknik çözümler üretiyoruz.
+Afet Yönetim Sistemi, Bir kuruma bağlı olan gönüllü kişilerin afet bölgesine kişi ve/veya alet edevat taşıma sürecinin gerçekleştirilmesi ve bu süreçte kişilerin güvenliğinin sağlanması, kurumun koordinasyonunun sağlanması, doğru envanterin doğru konuma gönderilmesini hedefliyoruz. Afet sonrası yardımların güvenli ve sağlıklı bir şekilde ulaşması için teknik çözümler üretiyoruz. 
 
-## Katkı Sağlamak İstiyorum
+Daha detaylı bilgiye ulaşmak için [Tanıtım Dokümanı](https://github.com/afet-yonetim-sistemi/.github/files/13479159/ays_introduction.pdf)mızı inceleyebilirsin.
 
-Detaylı bilgi için [Discord](https://discord.gg/3ShTaTJr4f) kanalımıza dahil olabilir, ilgili repositoryleri inceleyebilir, gönüllü kişilerle iletişime geçerek bize destek olabilirsin.
+## 🚀 Katkı Sağlamak İstiyorum
 
-## Teknik Gereksinim
+Bizimle birlikte projede yer almak için [Discord](https://discord.gg/3ShTaTJr4f) sunucumuza dahil olabilir, ilgili repositoryleri inceleyebilir, gönüllü kişilerle iletişime geçerek bize destek olabilirsin.
+
+## 💻 Teknik Gereksinim
 
 - **Back-End**: `Java17`, `Spring Boot 3`, `Docker`, `MySQL`
 - **Front-End:** `React.js`, `TypeScript`
