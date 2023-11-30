@@ -1,7 +1,6 @@
 
 # ⛰️ **Afet Yönetim Sistemi**
 
-
 Merhaba 👋
 Afet Yönetim Sistemi, [discussion](https://github.com/acikkaynak/afet-org/discussions/35) alanındaki fikri gönüllü olarak hayata geçirmek için katkı sağlayan bir topluluktur.
 
@@ -13,7 +12,7 @@ Daha detaylı bilgiye ulaşmak için [Tanıtım Dokümanı](https://github.com/a
 
 ## 🚀 Katkı Sağlamak İstiyorum
 
-Bizimle birlikte projede yer almak için [Discord](https://discord.gg/3ShTaTJr4f) sunucumuza dahil olabilir, ilgili repositoryleri inceleyebilir, gönüllü kişilerle iletişime geçerek bize destek olabilirsin. [LinkedIn](https://tr.linkedin.com/company/afetyonetimsistemi) hesabımızı takip edebilir ve gelişmelerden haberdar olabilirsin.
+Bizimle birlikte projede yer almak için [Discord](https://discord.gg/3ShTaTJr4f) sunucumuza dahil olabilir, ilgili repositoryleri inceleyebilir, gönüllü kişilerle iletişime geçerek bize destek olabilirsin. [LinkedIn](https://tr.linkedin.com/company/afetyonetimsistemi) hesabımızı takip edebilir ve gelişmelerden haberdar olabilirsin. Tüm bu bilgilere yine kendi geliştirmiş olduğumuz [www.afetyonetimsistemi.com](https://www.afetyonetimsistemi.com) internet adresinden de ulaşabilir, çevrendeki insanlarla paylaşabilirsin.
 
 ## 💻 Teknik Gereksinim
 
