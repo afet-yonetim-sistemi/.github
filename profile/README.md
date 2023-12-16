@@ -2,6 +2,7 @@
 # ⛰️ **Afet Yönetim Sistemi**
 
 Merhaba 👋
+
 Afet Yönetim Sistemi, [discussion](https://github.com/acikkaynak/afet-org/discussions/35) alanındaki fikri gönüllü olarak hayata geçirmek için katkı sağlayan bir topluluktur.
 
 ## ☀️ Özet
