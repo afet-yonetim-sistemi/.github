@@ -20,12 +20,8 @@ Bizimle birlikte projede yer almak için [Discord](https://discord.gg/3ShTaTJr4f
 - **Back-End**: `Java17`, `Spring Boot 3`, `Docker`, `MySQL`
 - **Front-End:** `React.js`, `TypeScript`
 - **Mobile**: `React Native`
-- **iOS*:** `Swift`
-- **Android*:** `Kotlin`
 - **DevOps:** `Amazon Web Services`, `Terminal Skills`
 - **UI/UX Design:** `Figma`
-- **Product:** `Github Project`
+- **Product:** `Jira`, `Confluence`
 - **Discord Moderating:** `Orientation`, `Organization Bots`
 - **Test:** `API & UI Test Automation`, `Manuel Testing for Web & Mobile`
-
-> '*'  ile işaretlenen alanlar için şu an aktif geliştirici olmadığından durdurma kararı aldık.
