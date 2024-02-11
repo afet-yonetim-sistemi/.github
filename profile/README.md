@@ -17,11 +17,11 @@ Bizimle birlikte projede yer almak için [Discord](https://discord.gg/3ShTaTJr4f
 
 ## 💻 Teknik Gereksinim
 
-- **Back-End**: `Java17`, `Spring Boot 3`, `Docker`, `MySQL`
+- **Back-End**: `Java 17`, `Spring Boot 3`, `Docker`, `MySQL`
 - **Front-End:** `React.js`, `TypeScript`
 - **Mobile**: `React Native`
 - **DevOps:** `Amazon Web Services`, `Terminal Skills`
 - **UI/UX Design:** `Figma`
 - **Product:** `Jira`, `Confluence`
 - **Discord Moderating:** `Orientation`, `Organization Bots`
-- **Test:** `API & UI Test Automation`, `Manuel Testing for Web & Mobile`
+- **Test:** `API & UI Test Automation`, `Manual Testing for Web & Mobile`
