@@ -13,7 +13,7 @@ Daha detaylı bilgiye ulaşmak için [Tanıtım Dokümanı](https://github.com/a
 
 ## 🚀 Katkı Sağlamak İstiyorum
 
-Bizimle birlikte projede yer almak için [Discord](https://discord.gg/3ShTaTJr4f) sunucumuza dahil olabilir, ilgili repositoryleri inceleyebilir, gönüllü kişilerle iletişime geçerek bize destek olabilirsin. [LinkedIn](https://tr.linkedin.com/company/afetyonetimsistemi) hesabımızı takip edebilir ve gelişmelerden haberdar olabilirsin. Tüm bu bilgilere yine kendi geliştirmiş olduğumuz [afetyonetimsistemi.org](https://afetyonetimsistemi.org) internet adresinden de ulaşabilir, çevrendeki insanlarla paylaşabilirsin.
+Bizimle birlikte projede yer almak için [Discord](https://discord.gg/3DgKRNWGTw) sunucumuza dahil olabilir, ilgili repositoryleri inceleyebilir, gönüllü kişilerle iletişime geçerek bize destek olabilirsin. [LinkedIn](https://tr.linkedin.com/company/afetyonetimsistemi) hesabımızı takip edebilir ve gelişmelerden haberdar olabilirsin. Tüm bu bilgilere yine kendi geliştirmiş olduğumuz [afetyonetimsistemi.org](https://afetyonetimsistemi.org) internet adresinden de ulaşabilir, çevrendeki insanlarla paylaşabilirsin.
 
 ## 💻 Teknik Gereksinim
 
