@@ -31,8 +31,6 @@ The Disaster Management System is a platform designed to manage volunteers and c
 
 Our platform also offers an open structure where organizations can directly interact. Organizations can join this platform, access qualified volunteer portfolios, and conduct evaluations after events. This enables a more efficient and organized structure in disaster management processes.
 
-For more detailed information, you can review our [Introduction Document](https://github.com/afet-yonetim-sistemi/.github/files/13479159/ays_introduction.pdf).
-
 ## 🚀 I Want to Contribute
 
 To contribute to the project, you can join our [Discord](https://discord.gg/3DgKRNWGTw) server, review the relevant repositories, and contact volunteers to support us. You can also follow our [LinkedIn](https://tr.linkedin.com/company/afetyonetimsistemi) account to stay updated with our progress. All this information is also available on our website [afetyonetimsistemi.org](https://afetyonetimsistemi.org), which you can share with people around you.
