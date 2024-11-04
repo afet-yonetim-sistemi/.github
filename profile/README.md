@@ -11,15 +11,6 @@ Platformumuz aynı zamanda kurumların doğrudan etkileşimde bulunabilecekleri 
 - Ayrıca [LinkedIn](https://tr.linkedin.com/company/afetyonetimsistemi) ve [X](https://x.com/afetyonetims) hesaplarımızı takip ederek gelişmelerden haberdar olabilirsiniz.
 - Tüm bu bilgilere yine kendi geliştirdiğimiz [afetyonetimsistemi.org](https://afetyonetimsistemi.org) internet adresinden ulaşabilir ve projeyi çevrenizdeki insanlarla paylaşabilirsiniz.
 
-## 🎯 Proje Hedefleri
-
-Afet Yönetim Sistemi'ni, gönüllü yönetim platformuna dönüştürerek afet sırasında ve sonrasında insanlara yardımcı olmayı amaçlıyoruz. Bu proje ile:
-- Afet bölgelerinde hızlı ve etkili bir gönüllü organizasyonu sağlanacak.
-- Gönüllülerin güvenli ve organize bir şekilde yönetilmesi sağlanacak.
-- Kurumlar, platform üzerinden nitelikli gönüllülere erişebilecek ve etkinlikler sonrası değerlendirme yapabilecek.
-- Etkin raporlama ve takip sistemleri ile süreçlerin verimliliği artırılacak.
-- Uçtan uca bir afet yönetim sistemi oluşturulacak.
-
 Afet Yönetim Sistemi, gönüllülerin doğru zamanda, doğru yerde olmasını sağlayarak hayat kurtarmaya ve afet sonrası toparlanma sürecine katkı sunmayı hedeflemektedir. Projemize destek vererek, bu önemli misyonun bir parçası olabilirsiniz.
 
 Birlikte daha güçlü ve hazırlıklı bir toplum oluşturmak için siz de katkıda bulunun!
@@ -40,15 +31,6 @@ Our platform also offers an open structure where organizations can directly inte
 - You can review our Issues on [Jira](https://afetyonetimsistemi.atlassian.net/jira) and access all documents related to the project via [Confluence](https://afetyonetimsistemi.atlassian.net/wiki).
 - You can also be informed about the developments by following our [LinkedIn](https://tr.linkedin.com/company/afetyonetimsistemi) and [X](https://x.com/afetyonetims) accounts.
 - You can access all this information at the [afetyonetimsistemi.org](https://afetyonetimsistemi.org) website that we have developed ourselves and share the project with the people around you.
-
-## 🎯 Project Goals
-
-We aim to transform the Disaster Management System into a volunteer management platform that assists people during and after disasters. With this project:
-- A rapid and effective volunteer organization will be established in disaster areas.
-- Volunteers will be managed safely and in an organized manner.
-- Organizations will be able to access qualified volunteers and conduct evaluations post-events via the platform.
-- Efficient reporting and tracking systems will increase process efficiency.
-- An end-to-end disaster management system will be created.
 
 The Disaster Management System aims to ensure volunteers are in the right place at the right time, saving lives and contributing to post-disaster recovery. By supporting our project, you can be part of this important mission.
 
