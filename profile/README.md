@@ -21,7 +21,7 @@ Afet Yönetim Sistemi, gönüllülerin doğru zamanda, doğru yerde olmasını s
 
 Birlikte daha güçlü ve hazırlıklı bir toplum oluşturmak için siz de katkıda bulunun!
 
-**Projeye katılmak ve destek sağlamak için [Discord](https://discord.gg/3DgKRNWGTw) sunucumuza katılmayı unutmayın!**
+**Projeye katılmak ve destek sağlamak için [Slack](https://join.slack.com/t/afetyonetimsistemi/shared_invite/zt-2s7h4ggpe-Cz_MLUXNyzqS2lmGLaIVBw) sunucumuza katılmayı unutmayın!**
 
 ---
 
@@ -48,7 +48,7 @@ The Disaster Management System aims to ensure volunteers are in the right place 
 
 Join us in building a stronger and more prepared community!
 
-**Don't forget to join our [Discord](https://discord.gg/3DgKRNWGTw) server to participate and support the project!**
+**Don't forget to join our [Slack](https://join.slack.com/t/afetyonetimsistemi/shared_invite/zt-2s7h4ggpe-Cz_MLUXNyzqS2lmGLaIVBw) server to participate and support the project!**
 
 ---
 
@@ -61,7 +61,9 @@ Join us in building a stronger and more prepared community!
 - **MySQL**
 
 ### Front-End
+- **React**
 - **TypeScript**
+- **Next.js**
 
 ### DevOps
 - **AWS | Amazon Web Services**
