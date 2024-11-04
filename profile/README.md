@@ -6,7 +6,10 @@ Platformumuz aynı zamanda kurumların doğrudan etkileşimde bulunabilecekleri 
 
 ## 🚀 Katkı Sağlamak İstiyorum
 
-Projeye katkı sağlamak için [Discord](https://discord.gg/3DgKRNWGTw) sunucumuza katılabilir, ilgili repositoryleri inceleyebilir ve gönüllü kişilerle iletişime geçerek bize destek olabilirsiniz. Ayrıca [LinkedIn](https://tr.linkedin.com/company/afetyonetimsistemi) hesabımızı takip ederek gelişmelerden haberdar olabilirsiniz. Tüm bu bilgilere yine kendi geliştirdiğimiz [afetyonetimsistemi.org](https://afetyonetimsistemi.org) internet adresinden ulaşabilir ve projeyi çevrenizdeki insanlarla paylaşabilirsiniz.
+- İlgili repositoryleri inceleyebilir, gönüllü kişilerle iletişime geçmek ve projenin bir parçası olmak için [Slack](https://join.slack.com/t/afetyonetimsistemi/shared_invite/zt-2s7h4ggpe-Cz_MLUXNyzqS2lmGLaIVBw) sunucumuza katılabilirsiniz.
+- Issue'larımızı [Jira](https://afetyonetimsistemi.atlassian.net/jira) üzerinden inceleyebilir, proje ile ilgili bütün dokümanlara [Confluence](https://afetyonetimsistemi.atlassian.net/wiki) üzerinden erişebilirsiniz.
+- Ayrıca [LinkedIn](https://tr.linkedin.com/company/afetyonetimsistemi) ve [X](https://x.com/afetyonetims) hesaplarımızı takip ederek gelişmelerden haberdar olabilirsiniz.
+- Tüm bu bilgilere yine kendi geliştirdiğimiz [afetyonetimsistemi.org](https://afetyonetimsistemi.org) internet adresinden ulaşabilir ve projeyi çevrenizdeki insanlarla paylaşabilirsiniz.
 
 ## 🎯 Proje Hedefleri
 
@@ -33,7 +36,10 @@ Our platform also offers an open structure where organizations can directly inte
 
 ## 🚀 I Want to Contribute
 
-To contribute to the project, you can join our [Discord](https://discord.gg/3DgKRNWGTw) server, review the relevant repositories, and contact volunteers to support us. You can also follow our [LinkedIn](https://tr.linkedin.com/company/afetyonetimsistemi) account to stay updated with our progress. All this information is also available on our website [afetyonetimsistemi.org](https://afetyonetimsistemi.org), which you can share with people around you.
+- You can join our server [Slack](https://join.slack.com/t/afetyonetimsistemi/shared_invite/zt-2s7h4ggpe-Cz_MLUXNyzqS2lmGLaIVBw) to review the relevant repotories, contact volunteers and become a part of the project.
+- You can review our Issues on [Jira](https://afetyonetimsistemi.atlassian.net/jira) and access all documents related to the project via [Confluence](https://afetyonetimsistemi.atlassian.net/wiki).
+- You can also be informed about the developments by following our [LinkedIn](https://tr.linkedin.com/company/afetyonetimsistemi) and [X](https://x.com/afetyonetims) accounts.
+- You can access all this information at the [afetyonetimsistemi.org](https://afetyonetimsistemi.org) website that we have developed ourselves and share the project with the people around you.
 
 ## 🎯 Project Goals
 
